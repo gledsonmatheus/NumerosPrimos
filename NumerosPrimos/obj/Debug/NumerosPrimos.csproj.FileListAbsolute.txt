@@ -1,0 +1,7 @@
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojAssemblyReference.cache
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\matheus-pc\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
